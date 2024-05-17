@@ -8,3 +8,6 @@ coachtech-test
 ##使用技術
 -laravel 8.83.8
 ##　ER図
+file:///Users/matsushitakeisuke/coachtech/laravel/coachtech-test/index.drawio.png
+## URL
+http://localhost
