@@ -1,0 +1,13 @@
+.header__div {
+    text-align: center;
+    margin-top: 5%;
+    border-bottom: double 1px #e4e4e4;
+    padding-bottom: 5%;
+}
+
+.header__a{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: rgb(146, 101, 46);
+    font-family: "Noto Serif JP", serif;
+}
